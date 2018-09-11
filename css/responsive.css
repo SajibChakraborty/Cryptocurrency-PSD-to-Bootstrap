@@ -1,0 +1,246 @@
+@media (min-width: 576px) and (max-width: 767.98px) {
+	.info-box p{font-size: 12px;}
+	.cs-btn{font-size: 8px;padding: 2px 5px;margin-top: 20px;}
+	.info-box span{font-size: 10px;}
+	.ban-head{font-size: 20px;/* position: absolute; *//* top: -4%; *//* left: 46%; *//* transform: translateX(-50%); */margin-bottom: 20px;/* margin-top: 45px; */}
+	.make-center{/* position: absolute; *//* bottom: 0; *//* margin-bottom: 50px; */}
+	.wid-low{padding: 0 0;/* margin-top: 43px; *//* position: absolute; *//* top: 15%; *//* left: 50%; *//* transform: translateX(-50%); *//* transform: scale(0); */}
+	.icon{
+	}
+	.phone{
+    /* transform: scale(0); */
+    text-align: center;
+ }
+	.services-line{
+		        margin-bottom: -25px;
+    			margin-top: 30px !important;
+	}
+	.service-head{
+		    margin-top: 40px;
+	}
+	.ed-1{
+    margin-bottom: 20px;
+}
+	.ed-2{
+    margin-bottom: 30px;
+}
+	.back-img{}
+	.pos{}
+	.res h1{
+		font-size: 30px;
+	    margin-top: 0;
+	}
+	.top-part .top{
+		justify-content: center;
+	}
+	.top-edit{
+    	justify-content: center !important;
+	}
+	.services-line img{
+		margin-bottom: 10px;
+	}
+	.Satisfaction{
+    /* background: #FF9B1A; */
+    /* background-size: cover; */
+    /* background-repeat: no-repeat; */
+    height: 550px;
+    /* padding: 300px 0; */
+}
+	.services-line h4{}
+	.services-line p{}
+	.ex-box{
+		    margin-bottom: 40px;
+	}
+	.info{
+		margin-bottom: 35px;
+	}
+	.info h1{
+		font-size: 40px;
+	}
+	.info p{}
+	.img-ab-1{
+		    width: 10%;
+	}
+	.img-ab-1 p{
+    font-size: 14px;
+	}
+	.icon{margin-bottom: 25px;}
+	.img-ab-2{
+    width: 10%;
+	}
+	.img-ab-2 p{
+    font-size: 14px;
+	}
+	.admin-box{}
+	.img-ab-3{
+    width: 10%;
+    top: 25%;
+	}
+	.img-ab-3 p{
+    font-size: 14px;
+	} 
+	.img-ab-4{
+    width: 10%;
+    top: 25%;
+	}
+	.img-ab-4 p{
+    font-size: 14px;
+	}
+	.img-ab-5{
+    width: 10%;
+	}
+	.img-ab-5 p{
+    font-size: 14px;
+	} 
+	.img-ab-6{
+    width: 10%;
+	}
+		.img-ab-6 p{
+    font-size: 14px;
+	}
+	.models .col-md-4{
+    margin-bottom: 40px;
+	}
+	.pos{
+    top: 21%;
+ }
+	.pos-blog{
+    top: 66%;
+    left: 7%;
+	}
+	.admin-box{
+    margin-left: 30px;
+}
+	.admin-box p{
+	}
+	.blog-box{
+    margin-bottom: 40px;
+	}
+}
+@media (min-width: 992px) and (max-width: 1199.98px) {
+	.pos-blog{
+    position: absolute;
+    top: 57%;
+    transform: translateY(-65%);
+}
+	.pos{
+		    position: absolute;
+    top: 20%;
+	}
+	.wid-low{
+    padding: 0 50px;
+}
+	.ban-head{
+    font-size: 38px;
+}
+	.ggs{}
+}	
+@media (min-width: 768px) and (max-width: 991.98px) {
+	.info-box p{
+    font-size: 18px;
+}
+	.cs-btn{
+    font-size: 10px;
+    padding: 5px 15px;
+}
+	.info-box span{
+    font-size: 12px;
+}
+	.ban-head{
+    font-size: 24px;
+}
+	.wid-low{
+    padding: 0 15px;
+}
+	.phone{
+    position: absolute;
+    bottom: 0;
+    width: 330px;
+}
+	.pos{
+    position: absolute;
+    top: 18%;
+}
+	.pos-blog{
+    position: absolute;
+    top: 35%;
+}
+	.admin-box{
+    /* padding: 45px; */
+}
+}
+@media (max-width: 575.98px) {
+	.icon{
+		margin-bottom: 20px;
+	}
+	.top-edit{
+    	justify-content: center !important;
+	}
+	.top-part .top{
+		justify-content: center;
+	}
+	.info-box p{}
+	.cs-btn{
+    padding: 2px 5px;
+    font-size: 10px;
+}
+	.info-box span{}
+	.ban-head{
+		    font-size: 21px;
+		    position: absolute;
+		    top: 50%;
+		    transform: translate(-50%,-50%);
+		    left: 50%;
+	}
+	.make-center{
+    position: absolute;
+    top: 1px;
+    margin-top: 120px;
+}
+	.wid-low{
+    transform: scale(0);
+}
+	.banner{
+		position: relative;
+	}
+	.ex-box{margin-bottom: 25px;}
+		.phone{
+    text-align: center;
+}
+	.ed-2{
+    margin-bottom: 30px;
+    margin-left: 20px;
+}
+	.Satisfaction{
+	    height: 590px;
+	}
+	.models .col-md-4{
+		    margin-bottom: 25px;
+	}
+	.blog-box{
+    margin-bottom: 25px;
+}
+	.pos-blog{
+    position: absolute;
+    top: 70%;
+    transform: translateY(-70%);
+}
+	.admin-box{
+		    margin-left: 15px;
+	}
+}
+
+// Extra small devices (portrait phones, less than 576px)
+// No media query for `xs` since this is the default in Bootstrap
+
+// Small devices (landscape phones, 576px and up)
+@media (min-width: 576px) { ... }
+
+// Medium devices (tablets, 768px and up)
+@media (min-width: 768px) { ... }
+
+// Large devices (desktops, 992px and up)
+@media (min-width: 992px) { ... }
+
+// Extra large devices (large desktops, 1200px and up)
+@media (min-width: 1200px) { ... }
